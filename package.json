@@ -144,7 +144,7 @@
     "untildify": "^3.0.3",
     "util.promisify": "^1.0.0",
     "wait-on": "^3.1.0",
-    "ws": "^6.1.0"
+    "ws": "^6.1.4"
   },
   "greenkeeper": {
     "ignore": [
